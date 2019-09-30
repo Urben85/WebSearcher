@@ -22,7 +22,7 @@ namespace WebSearcher
             }
             finally
             {
-                log.Info("<------END----->");
+                log.Info("<------END-s----->");
             }
         }
     }
